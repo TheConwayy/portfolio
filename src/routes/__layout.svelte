@@ -1,7 +1,5 @@
-<slot />
+<script>
+    import '../tailwind.css'
+</script>
 
-<style>
-    @tailwind base;
-    @tailwind utilities;
-    @tailwind components;
-</style>
+<slot />
