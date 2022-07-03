@@ -1,7 +1,7 @@
 <script>
     import '../tailwind.css'
 
-    import Nav from '../components/nav.svelte'
+    import Nav from '../components/nav/nav.svelte'
 </script>
 
 <div class="p-8 max-w-6xl mx-auto">
