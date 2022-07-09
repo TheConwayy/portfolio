@@ -12,3 +12,5 @@ If you have any questions, comments or concerns while this website is still in d
 
 - **Discord:** `Conway#1000`
 - **Email:** `devinthomas1208@gmail.com`
+
+> Made with ❤️ by Devin Conway
