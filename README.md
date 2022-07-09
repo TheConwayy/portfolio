@@ -4,7 +4,7 @@
 
 This is the repo for Devin Conway's personal portfolio made using Svelte and TailwindCSS.
 
-It is still a WIP *(**W**ork **I**n **P**rogress)*, so a lot is still missing and this README is not going to be complete!
+It is still a WIP _(**W**ork **I**n **P**rogress)_, so a lot is still missing and this README is not going to be complete!
 
 ## Comments or concerns?
 
