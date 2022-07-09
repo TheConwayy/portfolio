@@ -1,1 +1,1 @@
-<h1 class="text-6xl font-['Oswald'] text-center my-10">Devin Conway</h1>
+<h1 class="text-6xl font-['Oswald'] text-center my-10 text-w">Devin Conway</h1>
