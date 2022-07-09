@@ -1,3 +1,16 @@
-<h1 class="text-6xl font-['Oswald'] text-left my-10 text-w">Devin Conway</h1>
+<script>
+    import Projects from '../components/projects/Projects.svelte'
+    import About from '../components/About.svelte'
 
-<h2 class="text-2xl font-['Oswald'] text-left text-w">Student | Developer | Young Entrepreneur</h2>
+    let h1css =  `text-6xl text-w font-['Oswald'] `
+    let h2css = `text-2xl text-w font-['Oswald'] `
+</script>
+
+<h1 class={h1css}>Devin Conway</h1>
+
+<h2 class={h2css + 'mt-1 uppercase'}>
+    <span class="no-underline text-base">Young</span> <span class="underline underline-offset-2">developer, student, entrepreneur</span>
+</h2>
+
+<Projects />
+<About />
