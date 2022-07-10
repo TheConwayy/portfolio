@@ -1,6 +1,7 @@
 <script>
 	import Projects from '../components/projects/Projects.svelte';
 	import About from '../components/About.svelte';
+	import Socials from '../components/Socials.svelte'
 
 	let h1css = `text-6xl text-w font-['Oswald'] `;
 	let h2css = `text-2xl text-w font-['Oswald'] `;
@@ -15,3 +16,4 @@
 
 <Projects />
 <About />
+<Socials />
