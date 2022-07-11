@@ -3,6 +3,10 @@
 	import '../app.css';
 </script>
 
+<svelte:head>
+	<script src="https://kit.fontawesome.com/b6dbfc57a8.js" crossorigin="anonymous"></script>
+</svelte:head>
+
 <div class="p-8 max-w-6xl mx-auto">
 	<slot />
 </div>
