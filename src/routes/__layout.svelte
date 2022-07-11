@@ -1,6 +1,8 @@
 <script>
 	import '../tailwind.css';
 	import '../app.css';
+
+	import ToTop from '../components/ToTop.svelte';
 </script>
 
 <svelte:head>
@@ -9,5 +11,6 @@
 </svelte:head>
 
 <div class="p-8 max-w-6xl mx-auto">
+	<ToTop />
 	<slot />
 </div>
