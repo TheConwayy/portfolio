@@ -19,10 +19,10 @@
 		<br />
 		<br />
 		I now manage my local area chamber of commerce's website and am starting my own freelance company
-		"Conway Development" where I will be making things such as vehicles for the FiveM GTAV Framework,
-		basic websites (such as this one) and Discord bots.
+		"Conway Development" where I will be creating many different things, such as websites like this,
+		discord bots, and other misc. things.
 		<br />
 		Hopefully, with me learning Svelte (what this website was made with), I can make more interactive
-		websites. But i am also learning ways to expand my knowledge in all areas.
+		websites. But I am also learning ways to expand my knowledge in all areas.
 	</p>
 </div>

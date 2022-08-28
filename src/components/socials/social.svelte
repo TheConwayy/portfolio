@@ -5,5 +5,5 @@
 </script>
 
 <li class="mb-5">
-	<a href={link}><i class={icon} /> - {name}</a>
+	<a href={link} target="_blank"><i class={icon} /> - {name}</a>
 </li>

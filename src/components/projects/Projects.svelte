@@ -5,7 +5,7 @@
 </script>
 
 <h1 class={h1css + 'text-right mt-20 mb-10'}>
-	Projects <span class="text-base"><a href="/">(GitHub)</a></span>
+	Projects <span class="text-base"><a href="https://github.com/TheConwayy" target="_blank">(GitHub)</a></span>
 </h1>
 
 <ul class="text-2xl text-w font-['Oswald'] text-right list-none">

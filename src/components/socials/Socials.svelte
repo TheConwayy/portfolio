@@ -5,7 +5,7 @@
 </script>
 
 <h1 class={h1css + 'text-right mt-20 mb-10'}>
-	Socials <span class="text-base"><a href="https://linktr.ee/devinconwayy">(LinkTr.ee)</a></span>
+	Socials <span class="text-base"><a href="https://linktr.ee/devinconwayy" target="_blank">(LinkTr.ee)</a></span>
 </h1>
 
 <ul class="text-2xl text-w font-['Oswald'] text-right list-none">
